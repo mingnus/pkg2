@@ -5,7 +5,7 @@ version = 3
 [[package]]
 name = "pkg1"
 version = "0.1.0"
-source = "git+https://github.com/mingnus/pkg1.git#fb0cf35ef8ce949d58fb8add985b54c8b5cb4152"
+source = "git+https://github.com/mingnus/pkg1.git#72c14452c88b9d0274673f8182cce306760432bf"
 
 [[package]]
 name = "pkg2"
