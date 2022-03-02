@@ -16,3 +16,9 @@ impl MetadataGenerator for CacheGenerator {
         v.superblock_b();
     }
 }
+
+//---
+
+pub fn accept_metadata_visitor(v: &dyn pkg1::MetadataVisitor) {
+    v.superblock_b();
+}
